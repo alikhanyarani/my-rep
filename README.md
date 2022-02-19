@@ -1,2 +1,2 @@
 # my-rep
-tutorial
+coursera-test
